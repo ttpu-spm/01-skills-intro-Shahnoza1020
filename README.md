@@ -21,3 +21,4 @@ This assignment introduces you to GitHub fundamentals through the GitHub Skills 
 
 ## Course Repository URLs
 <!-- This section will be automatically updated by CI when students complete the course -->
+[LINK](https://github.com/Shahnoza1020/skills-introduction-to-github)
